@@ -67,8 +67,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "AI/ML **Basics**",
-                            "text": "I can implement AI-driven solutions using HuggingFace and Python!"
+                            "title": "AI Engineer **Basics**",
+                            "text": "I can built AI models using Python and libraries like TensorFlow and PyTorch"
                         }
                     }
                 }

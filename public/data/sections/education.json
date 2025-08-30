@@ -22,14 +22,14 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "09/01/2020",
-                        "end": "06/01/2024"
+                        "start": "09/01/2022",
+                        "end": "06/01/2025"
                     },
                     "locales": {
                         "en": {
                             "title": "**Bachelor of Science** in Software Engineering",
                             "info": "Lahore Garrison University",
-                            "text": "Currently in 7th semester with a CGPA of 3.0. Studying software engineering fundamentals including software design, web development, AI, and database systems.",
+                            "text": " Learned software engineering fundamentals including software design, web development, AI, and database systems.",
                             "tags": ["Software Engineering", "AI", "Web Development"]
                         }
                     }
@@ -41,8 +41,8 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "04/01/2018",
-                        "end": "04/01/2020"
+                        "start": "04/01/2020",
+                        "end": "04/01/2022"
                     },
                     "locales": {
                         "en": {
@@ -60,8 +60,8 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "04/01/2016",
-                        "end": "04/01/2018"
+                        "start": "04/01/2018",
+                        "end": "04/01/2020"
                     },
                     "locales": {
                         "en": {

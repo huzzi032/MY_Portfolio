@@ -22,13 +22,13 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2023",
-                        "end": "06/01/2023"
+                        "start": "01/07/2025",
+                        "end": "01/08/2025"
                     },
                     "locales": {
                         "en": {
                             "title": "**Frontend Developer (Internship)**",
-                            "info": "Dream Collab Platform",
+                            "info": "Elevo",
                             "text": "Developed responsive web pages using React and Bootstrap. Collaborated with the backend team to integrate REST APIs and optimized UI performance for better user experience.",
                             "tags": ["React", "JavaScript", "Bootstrap"]
                         }

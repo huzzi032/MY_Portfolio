@@ -74,8 +74,9 @@
                     },
                     "locales": {
                         "en": {
-                            "text": "<p>I am Huzaifa Tahir, a passionate and dedicated Software Engineer currently in my 7th semester at Lahore Garrison University (CGPA: 3.0). I have strong skills in JavaScript, Python, React,Express.js and C++ with experience in projects such as Dream Collab Platform, E-commerce Websites, and Library Management System.</p><p>With expertise in both frontend and backend, along with AI and web scraping, I am eager to build innovative solutions and grow professionally.</p><p>Looking forward to collaborating <b>with you!</b></p>"
-                        }
+  "text": "<p>I am Huzaifa Tahir, a passionate and dedicated Software Engineer skilled in web development , Python and AI-powered application development. I have experience in web development, prompt engineering, and documentation, delivering scalable solutions within Agile/Scrum environments.</p><p>With expertise in both frontend and backend technologies, as well as AI and web scraping, I am eager to build innovative solutions.</p><p>Looking forward to collaborating <b>with you!</b></p>"
+}
+
                     }
                 }
             ]
